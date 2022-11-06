@@ -1,5 +1,7 @@
 # PS5 Browser_appCache_remove
 
+![Downloads](https://img.shields.io/github/downloads/Storm21CH/PS5_Browser_appCache_remove/total)
+
 Removes the browser and User Guide appCache for all users...
 
 Version 1.0 by Storm
@@ -10,6 +12,18 @@ That's why I made this payload: All offline cache files for all users are delete
 Tested on PS5 4.03.
 The files can also be deleted manually with FTPS5...
 
+Files to delete:
+
+	user/home/user_folder/webkit/shell/NKCookie.jar.db
+	user/home/user_folder/webkit/shell/NKCookie.jar.db-shm
+	user/home/user_folder/webkit/shell/NKCookie.jar.db-wal
+	user/home/user_folder/webkit/shell/appcache/ApplicationCache.db
+	user/home/user_folder/webkit/shell/appcache/ApplicationCache.db-shm
+	user/home/user_folder/webkit/shell/appcache/ApplicationCache.db-wal
+	user/home/user_folder/webkit/shell/local/https_manuals.playstation.net_0.localstorage
+	user/home/user_folder/webkit/shell/local/https_manuals.playstation.net_0.localstorage-shm
+	user/home/user_folder/webkit/shell/local/https_manuals.playstation.net_0.localstorage-wal
+	user/home/user_folder/webkit/shell/resourceloadstatistics/full_browsing_session_resourceLog.plist
 
 ## Credits:
 
