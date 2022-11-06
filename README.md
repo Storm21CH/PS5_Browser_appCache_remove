@@ -12,6 +12,8 @@ That's why I made this payload: All offline cache files for all users are delete
 Tested on PS5 4.03.
 The files can also be deleted manually with FTPS5...
 
+![](DSC_1003.JPG)
+
 Files to delete:
 
 	user/home/user_folder/webkit/shell/NKCookie.jar.db
